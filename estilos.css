@@ -11,7 +11,8 @@ img{
     height: 100%;
 }
 body{
-	background: rgb(129, 123, 123);
+	background-image: url(./img/fondo.jpg);
+	
 	font-family: "Lato";
 }
 
