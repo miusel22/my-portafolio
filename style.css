@@ -5,7 +5,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 .container{
-    width: 1000px; /*el ancho*/
+     /*el ancho*/
     margin: 0 auto;
 }
 .intro{
@@ -46,6 +46,7 @@ font-size: 18px;
 .banner{
     margin-top: 45px;
     background-image: url(./img/cait.jpg);
+    height: 600px;
 }
 
 .card-img-top:hover{
